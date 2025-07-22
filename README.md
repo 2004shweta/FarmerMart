@@ -23,7 +23,7 @@ Assured Farming is a web-based platform designed to bridge the gap between certi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/eshaalal/Kisaan_Bazar.git
+   git clone https://github.com/username/FarmerMart.git
    ```
 
 2. **Install Dependencies:**
