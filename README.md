@@ -1,6 +1,6 @@
 
 
-# Kisaan Bazaar 🌾
+# FarmerMart 🌾
 
 Assured Farming is a web-based platform designed to bridge the gap between certified contractors and farmers. It aims to provide farmers with reliable market access and income stability by facilitating contract farming. The platform ensures the automation of farming agreements, real-time traceability, and dispute resolution mechanisms, making the farming process more transparent and efficient.
 
